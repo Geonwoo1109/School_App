@@ -5,6 +5,10 @@
 (2022.05.31) https://github.com/Geonwoo1109/School_App/raw/main/School_App%20(6).apk
  - 아이콘 변경
 
+
+
+
+
 [ 이전 버전 ]
 (2022.05.31) https://github.com/Geonwoo1109/School_App/raw/main/School_App%20(5).apk
  - 다음급식 넘길 때 중식과 석식 날짜일치
