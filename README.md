@@ -3,6 +3,7 @@
  
 [ 최신 버전 - 2022.05.31 릴리즈]
 (1.1.0) https://github.com/Geonwoo1109/School_App/raw/main/School_App%20(7).apk
+ - 버그 수정, 아이콘 수정, 버전 정보 추가
 
 
 
