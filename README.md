@@ -2,7 +2,7 @@
  환영합니다. 가장 최신 파일이 업로드될 때마다 이곳에 공지하겠습니다.
  
 [ 최신 버전 - 2022.06.01 릴리즈]
-(1.2.0) <h3>https://github.com/Geonwoo1109/School_App/raw/main/School_App%20(10).apk</h3>
+(1.2.0) <h3>https://github.com/Geonwoo1109/School_App/raw/main/School_App%20(11).apk</h3>
  - 환영 인사, 새 버전에 대한 안내 추가
 
 
