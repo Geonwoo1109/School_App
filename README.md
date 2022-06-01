@@ -3,7 +3,7 @@
  
  
 
-[ 최신 버전  릴리즈]
+[ 최신 버전 - 2022.06.01 릴리즈]
 <h3>(1.2.1) https://github.com/Geonwoo1109/School_App/raw/main/School_App%20(13).apk</h3>
  - 화면 전환 슬라이드 변경, 알레르기 정보 추가
 
