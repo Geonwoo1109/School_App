@@ -1,8 +1,13 @@
 
 <h1>[ 최신 버전 - 2022.06.12 릴리즈]</h1>
-<h3>Download Link | (2.0.0) </h3>
+<h3>Download Link | (2.0.0) https://github.com/Geonwoo1109/School_App/raw/main/School_App_2%20(1).apk</h3>
 <ul>
- <li>화면 전환 슬라이드 변경, 알레르기 정보 추가</li>
+ <li>2학년 급식 정보 추가</li>
+ <li>이전급식을 볼 수 있도록 설정</li>
+ <li>2학년 시간표 추가</li>
+ <li>정보입력 완료 시 바로 메인화면으로 넘어감</li>
+ <li>급식 순서로 전체 급식 순서를 볼 수 있음</li>
+ <li>전체급식-알레르기 정보 버튼 홀드에서 토글로</li>
 </ul>
 
 <h1>앱 소개</h1>
