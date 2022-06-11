@@ -1,6 +1,6 @@
 
 <h1>[ 최신 버전 - 2022.06.12 릴리즈]</h1>
-<h3>Download Link | (2.0.1) https://github.com/Geonwoo1109/School_App/raw/main/School_App_2%20(5).apk</h3>
+<h3>Download Link | (2.0.1) https://github.com/Geonwoo1109/School_App/raw/main/School_App_2%20(6).apk</h3>
 <ul>
  <li>인터페이스 수정</li>
 </ul>
