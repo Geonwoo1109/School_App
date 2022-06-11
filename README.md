@@ -1,6 +1,6 @@
 
 <h1>[ 최신 버전 - 2022.06.12 릴리즈]</h1>
-<h3>Download Link | (2.0.0) https://github.com/Geonwoo1109/School_App/raw/main/School_App_2%20(2).apk</h3>
+<h3>Download Link | (2.0.0) https://github.com/Geonwoo1109/School_App/raw/main/School_App_2%20(3).apk</h3>
 <ul>
  <li>2학년 급식 정보 추가</li>
  <li>이전급식을 볼 수 있도록 설정</li>
