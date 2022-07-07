@@ -1,28 +1,24 @@
-<h1>[ 최신 버전 - 2022.06.13 릴리즈]</h1>
-<h3>Download Link | (2.1.0) https://github.com/Geonwoo1109/School_App/raw/main/School_App_2.apk</h3>
+
+<h1>[ 최신 버전 - 2022.07.08 릴리즈]</h1>
+<h3>Download Link | (2.1.1) https://github.com/Geonwoo1109/School_App/raw/main/School_App_2%20(2.1.1).apk</h3>
 <ul>
- <li>버전 체크 위치 변경</li>
+ <li>이벤트 관련 내용 삭제</li>
 </ul>
+
 
 <h1>앱 소개</h1>
 <p><b>환영합니다!</b> 이곳에서 대덕고등학교 편의 어플 School_App에 관한 정보를 확인할 수 있습니다.</p>
 <p>이 앱은 대덕고등학교 3학년 학생들을 위해 급식(중식, 석식), 시간표에 대한 정보를 제공해 드리는 앱입니다.</p>
 
-<h1>이벤트</h1>
-<h4>기간 | 6.1 ~ 6.30</h4>
-<h4>유형 | 선착순 30명</h4>
-<h4>선물 | Twix top (초콜릿)</h4>
-
-<h4>-참여 방법-</h4>
-<ol>
- <li>앱을 다운로드한다.</li>
- <li>자유롭게 사용한다.</li>
- <li>"개발자 피드백"탭에서 <a href="https://open.kakao.com/o/skZtILie">카카오톡 링크</a>로 들어간다.</li>
- <li>앱과 관련하여 다양한 피드백을 제공하면 성공!</li>
-</ol>
-
 
 <h1>[ 이전 버전 ]</h1>
+
+ <li>(2.1.1) - 2022.06.13
+  <ul>
+   <li>https://github.com/Geonwoo1109/School_App/raw/main/School_App_2.apk</li>
+   <li>버전 체크 위치 변경</li>
+  </ul>
+ </li>
 
  <li>(2.0.1) - 2022.06.12
   <ul>
