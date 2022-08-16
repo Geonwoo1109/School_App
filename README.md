@@ -1,8 +1,10 @@
+https://github.com/Geonwoo1109/School_App/raw/main/School_App_2%20(2.2.0).apk
 
-<h1>[ 최신 버전 - 2022.07.08 릴리즈]</h1>
-<h3>Download Link | (2.1.1) https://github.com/Geonwoo1109/School_App/raw/main/School_App_2%20(2.1.1).apk</h3>
+
+<h1>[ 최신 버전 - 2022.08.16 릴리즈]</h1>
+<h3>Download Link | (2.2.0) https://github.com/Geonwoo1109/School_App/raw/main/School_App_2%20(2.2.0).apk</h3>
 <ul>
- <li>이벤트 관련 내용 삭제</li>
+ <li>2학기 시간표로 변경</li>
 </ul>
 
 
@@ -12,6 +14,7 @@
 
 
 <h1>[ 이전 버전 ]</h1>
+
 
  <li>(2.1.1) - 2022.06.13
   <ul>
