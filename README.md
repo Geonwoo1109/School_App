@@ -1,5 +1,3 @@
-https://github.com/Geonwoo1109/School_App/raw/main/School_App_2%20(2.2.0).apk
-
 
 <h1>[ 최신 버전 - 2022.08.16 릴리즈]</h1>
 <h3>Download Link | (2.2.0) https://github.com/Geonwoo1109/School_App/raw/main/School_App_2%20(2.2.0).apk</h3>
